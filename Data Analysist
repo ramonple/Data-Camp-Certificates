@@ -1,0 +1,18 @@
+Graphical processing units enabled the development of deep learning models from neural networks. 
+When does a neural network become a deep learning model?
+--> When more hidden layers are added to a neural network.
+
+Cassava plants are a key food security crop in Sub-Saharan Africa but viral diseases are a major source of poor yields. 
+A survey in Uganda has yielded a dataset with over 20,000 labelled images of healthy and diseased cassava plants. 
+What kind of machine learning technique would most likely produce the best results in helping to identify common cassava plant diseases from the images?
+--> Neural Network
+
+What is meant by a precision of 60% for a classification model that classifies an email as spam or not spam?
+--> this means that if the model classified 10 emails as spam. then 6 of those emails would be spam.
+
+[ precision ] = TP/ ( TP + FP ) What proportion of positive identifications was actually correct?
+
+[ Recall / Sensitivity ] = TP/ (TP + FN) What proportion of actual positives was identified correctly?
+
+
+The Null hypothesis is a statement about the population parameters.
